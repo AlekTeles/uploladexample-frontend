@@ -1,0 +1,20 @@
+.Login-btn {
+
+ font-family: arial; color: rgb(255, 255, 255);
+ font-size: 30px;
+ text-decoration: none;
+ background-color: #1DBC55;
+ padding: 15px;
+ border-radius: 10px;
+ padding-left: 30px;
+ padding-right: 30px;
+}
+
+.Login-btn:hover {
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+    cursor:pointer;
+}
+
+
+
